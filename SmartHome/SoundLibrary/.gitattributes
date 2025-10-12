@@ -1,0 +1,2 @@
+*.mp3 binary linguist-detectable=false text eol=lf
+*.mp3 mime=audio/mpeg
